@@ -25,8 +25,8 @@ In addition to Homework 3, this repository includes various hobby projects relat
 ## Project Structure
 
 - `Homework3/`: Contains the code and documentation for Homework 3.
-  - `Part1/`: Code for layerwise learning on VGG11.
-  - `Part2/`: Implementation of U-Net and PSPNet for image segmentation.
+  - `Q1_codes`: Code for layerwise learning on VGG11.
+  - `Q2_models`: Implementation of U-Net and PSPNet for image segmentation.
 
 - `OtherProjects/`: Directory containing various hobby projects related to Convolutional Neural Networks.
 
