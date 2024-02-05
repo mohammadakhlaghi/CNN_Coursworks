@@ -1,4 +1,4 @@
-# CNN Courseworks and Hobby Projects Repository
+# CNN Courseworks
 
 ## Homework 3
 
