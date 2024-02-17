@@ -34,8 +34,6 @@ In the RCNN part, we used the Faster-RCNN network on the PASCAL dataset and achi
 - `RCNN/`: Code and report for the RCNN project.
 - `Layerwise_learning,Segmentation/`: Folder containing "Report_HW3.pdf," "Layerwise_codes," and "2D_segmentation_models."
 
-- `OtherProjects/`: Directory containing various hobby projects related to Convolutional Neural Networks.
-
 Feel free to explore the code and documentation in each folder. If you have any questions or suggestions, don't hesitate to reach out.
 
 Happy coding!
